@@ -1,1 +1,0 @@
-# c-pin-wordlist-generator
